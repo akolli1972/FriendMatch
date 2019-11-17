@@ -4,7 +4,7 @@ module.exports = function(app) {
   // API Routes
   // Displays all friends
   app.get("/api/friends", function(req, res) {
-    var filePath = path.join(__dirname, "..\\data\\friends.js");
+    var filePath = path.join(__dirname, "../data/friends.js");
     var friendsList = [];
     //Read friends.js and return the array
     try {
@@ -32,7 +32,7 @@ module.exports = function(app) {
 
   // Saves a survey result, find match and return best match
   app.post("/api/friends", function(req, res) {
-    var filePath2 = path.join(__dirname, "..\\data\\friends.js");
+    var filePath2 = path.join(__dirname, "../data/friends.js");
 
     //Get data from request object
     userData = req.body;
