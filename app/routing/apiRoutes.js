@@ -22,7 +22,7 @@ module.exports = function(app) {
     return Math.floor(Math.random() * (5 - 1) + 1);
   }
 
-  function arraySum(a, b) {
+  function srcSum(a, b) {
     var sum = 0;
     for (var i = 0; i < a.length; i++) {
       sum = sum + Math.abs(a[i] - b[i]);
@@ -77,7 +77,7 @@ module.exports = function(app) {
     var friendPic = "";
 
     for (let f of friends) {
-      var currDiff = arraySum(f.scores, userData.scores);
+      var currDiff = srcSum(f.scores, userData.scores);
       if (currDiff < minDiff) {
         minDiff = currDiff;
         //Get the best match

@@ -4,9 +4,7 @@ In this app, I have built a "Friendfinder" application, that takes in users' res
 
 ## My directories and folders are arranged as below:
 
-![Flowchartof folders](./flowchart_folders.png)
-
----
+![Flowchart of folders](./Flowchart_folders.png)
 
 ## How the app works
 
