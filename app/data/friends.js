@@ -1,0 +1,1 @@
+[{"name":"Yash","photo":"https://picsum.photos/200/300","scores":["2","3","2","2","2","3","1","1","5","2"]},{"name":"aruna","photo":"https://picsum.photos/200/300","scores":["2","3","2","2","2","3","4","1","5","2"]},{"name":"aruna2","photo":"https://picsum.photos/200/300","scores":["2","3","2","2","2","3","1","1","5","2"]}]
