@@ -4,7 +4,7 @@ In this app, I have built a "Friendfinder" application, that takes in users' res
 
 ## My directories and folders are arranged as below:
 
-FriendFinder - .gitignore - app - data - friends.js - public - home.html - survey.html - routing - apiRoutes.js - htmlRoutes.js - node_modules - package.json - server.js
+![Flowchartof folders](./flowchart_folders.png)
 
 ---
 
