@@ -6,10 +6,6 @@
 
 In this app, I have built a "Friendfinder" application, that takes in users' results from a survey, then compare them with other users and display the best compatibility match with the name and picture.
 
-## My directories and folders are arranged as below:
-
-![Flowchart](screenshots/Flowchart_folders.PNG)
-
 ## How the app works
 
 Users take a survey by answering 10 questions and by typing in input into the name and photo fields. User has to make sure to enter all fields.
