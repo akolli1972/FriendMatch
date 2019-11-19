@@ -8,7 +8,7 @@ In this app, I have built a "Friendfinder" application, that takes in users' res
 
 ## My directories and folders are arranged as below:
 
-![Flowchart](./app/Flowchart_folders.PNG)
+![Flowchart](Flowchart_folders.PNG)
 
 ## How the app works
 
@@ -22,11 +22,11 @@ Finally, once the most compatible friend is found, the data will be displayed wi
 
 ## TECHNOLOGIES used
 
-Javascript
-Nodejs
-Node packages:
-Path
-Express
-Git
-GitHub
-Html, Bootstrap
+- Javascript
+- Nodejs
+- Node packages:
+  Path
+  Express
+- Git
+- GitHub
+- Html, Bootstrap
