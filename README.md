@@ -26,3 +26,7 @@ Finally, once the most compatible friend is found, the data will be displayed wi
 - Git
 - GitHub
 - Html, Bootstrap
+
+# FLowchart
+
+![flowchart](flowchart.png)
