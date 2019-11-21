@@ -29,4 +29,4 @@ Finally, once the most compatible friend is found, the data will be displayed wi
 
 # FLowchart
 
-![flowchart](flowchart.png)
+![folder structure](./flowchart.png)
